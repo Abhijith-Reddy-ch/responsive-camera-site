@@ -14,3 +14,11 @@ A fully responsive landing page built for showcasing camera products, specifical
 ---
 
 This description clearly explains the purpose of the project and its main features. You can tweak it based on your specific implementation.
+
+Here is a glimpse of the webpage:
+
+
+
+
+https://github.com/user-attachments/assets/80c00733-de01-4c6f-bc8e-8ece4015b807
+
